@@ -1,11 +1,7 @@
 # fract-ol
-Ok Halima 😄, hadi documentation **mghada, wadḥa w mratba**, **bla photos wla diagrams**, li t9dr t7ttha directement f `README.md`:
-
 ---
 
 # **Fract’ol – Computer Graphics Fractals**
-
-**Version:** 4.0
 **Language:** C
 **Libraries:** MiniLibX, libft (optional), math library
 
@@ -148,7 +144,3 @@ Your goal: create beautiful fractals and explore them interactively.
   * Updating data structures
 
 ---
-
-Halima, hadi **ready-to-use version** li t9dr t7ttha direct f **`README.md`**, **sans images ni diagrams**.
-
-Bghiti ndir lik daba **version short & tidy** li concise w t9dr t9raha b sra3a f GitHub?
